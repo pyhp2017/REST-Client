@@ -1,0 +1,22 @@
+1.URL:http://postman-echo.com/post | Method Name: post |  Query: null| headers: null | JSON: null |  DataForm: firstName=hadi&lastName=Tabatabaei | autoRedirect: false | 
+2.URL:http://google.com | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: true | 
+3.URL:http://google.com | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: true | 
+4.URL:http://google.com | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: false | 
+5.URL:http://downloadha.com | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: true | 
+6.URL:http://google.com | Method Name: get |  Query: key1:value1;key2:value2| headers: null | JSON: null |  DataForm: null | autoRedirect: true | 
+7.URL:http://apapi.haditabatabaei.ir/tests/post | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: firstName=hadi&lastName=Tabatabaei | autoRedirect: false | 
+8.URL:http://apapi.haditabatabaei.ir/tests/post | Method Name: post |  Query: null| headers: null | JSON: null |  DataForm: firstName=hadi&lastName=Tabatabaei | autoRedirect: false | 
+9.URL:http://postman-echo.com/post | Method Name: post |  Query: null| headers: null | JSON: null |  DataForm: firstName=hadi&lastName=Tabatabaei | autoRedirect: false | 
+10.URL:http://apapi.haditabatabaei.ir/tests/get/status/300 | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: false | 
+11.URL:http://apapi.haditabatabaei.ir/tests/get/status/200 | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: false | 
+12.URL:http://localhost:8080 | Method Name: post |  Query: null| headers: null | JSON: {foo: [bar,baz]} |  DataForm: null | autoRedirect: false | 
+13.URL:http://localhost:8080 | Method Name: post |  Query: null| headers: null | JSON: {"FirstName":"value","LastName":"value"} |  DataForm: null | autoRedirect: false | 
+14.URL:http://localhost:8080 | Method Name: post |  Query: null| headers: null | JSON: {"foo":["bar","baz"]} |  DataForm: null | autoRedirect: false |
+15.URL:http://apapi.haditabatabaei.ir/tests/get/follow/portal.aut.ac.ir | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: false | 
+16.URL:http://apapi.haditabatabaei.ir/tests/get/follow/portal.aut.ac.ir | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: true |
+17.URL:http://localhost:8080 | Method Name: post |  Query: null| headers: null | JSON: {"foo":["bar","baz"]} |  DataForm: null | autoRedirect: false | 
+18.URL:http://apapi.haditabatabaei.ir/tests/get/buffer/pic | Method Name: get |  Query: text:Ahmad| headers: null | JSON: null |  DataForm: null | autoRedirect: false | 
+19.URL:http://apapi.haditabatabaei.ir/tests/get/file | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: null | autoRedirect: false | 
+20.URL:http://apapi.haditabatabaei.ir/tests/post | Method Name: get |  Query: null| headers: null | JSON: null |  DataForm: firstName=ahmad&lastName=foroughi | autoRedirect: false | 
+21.URL:http://apapi.haditabatabaei.ir/tests/post | Method Name: post |  Query: null| headers: null | JSON: null |  DataForm: firstName=ahmad&lastName=foroughi | autoRedirect: false | 
+22.URL:http://postman-echo.com/post | Method Name: post |  Query: null| headers: null | JSON: null |  DataForm: firstName=ahmad&lastName=foroughi | autoRedirect: false | 
